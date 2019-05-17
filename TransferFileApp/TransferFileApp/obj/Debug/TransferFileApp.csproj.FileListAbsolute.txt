@@ -1,0 +1,10 @@
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\bin\Debug\TransferFileApp.exe.config
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\bin\Debug\TransferFileApp.exe
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\bin\Debug\TransferFileApp.pdb
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.csprojAssemblyReference.cache
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.Form1.resources
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.Properties.Resources.resources
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.csproj.GenerateResource.cache
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.csproj.CoreCompileInputs.cache
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.exe
+C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.pdb
