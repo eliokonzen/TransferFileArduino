@@ -8,3 +8,13 @@ C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFil
 C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.csproj.CoreCompileInputs.cache
 C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.exe
 C:\Users\Elio\source\repos\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.pdb
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\bin\Debug\TransferFileApp.exe.config
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\bin\Debug\TransferFileApp.exe
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\bin\Debug\TransferFileApp.pdb
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.csprojAssemblyReference.cache
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.Form1.resources
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.Properties.Resources.resources
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.csproj.GenerateResource.cache
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.csproj.CoreCompileInputs.cache
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.exe
+C:\Users\ekonzen\Source\Repos\TransferFileArduino\TransferFileApp\TransferFileApp\obj\Debug\TransferFileApp.pdb
